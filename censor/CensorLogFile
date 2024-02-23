@@ -1,0 +1,6 @@
+2024/02/22 00:55:31 Censorship service running on port 8084...
+2024/02/22 00:56:03 [779a6e73-f27f-474f-be17-d8a08521b871] POST /censor 200 51.5µs IP: [::1]:50376
+2024/02/22 00:56:41 [c90834a2-5f23-4e37-ad00-bf8d939ca211] POST /censor 400 126.666µs IP: [::1]:50376
+2024/02/22 00:59:10 [e5204d36-ebb0-41f9-b948-892df59edb9e] POST /censor 400 35µs IP: [::1]:57003
+2024/02/22 01:03:39 [e44c3d5a-85d8-4a59-b899-998c824f840c] POST /censor 200 29.416µs IP: [::1]:50294
+2024/02/22 01:17:22 Censorship service running on port 8084...
